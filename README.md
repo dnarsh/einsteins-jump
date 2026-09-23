@@ -10,6 +10,18 @@ Ask an AI to solve a hard problem, and it gives you a great-sounding answer. How
 
 The name is a reference to the kind of leap I was hoping to measure: not incremental improvement, but the moment where a real insight clicks — the way Einstein didn't just extend Newtonian mechanics, he saw that the whole frame was wrong.
 
+**If you only have five minutes:** read [phase 1](01-first-attempt/) for the first wall I hit, [phase 6](06-building-apex/) for the part where I tried hardest to prove myself wrong and couldn't, and [phase 5](05-why-this-is-hard/) for the actual reason, which turned out to be more interesting than the negative result itself.
+
+| Phase | Question | Outcome |
+|---|---|---|
+| [1. First attempt](01-first-attempt/) | Can a disguised physics puzzle fool an AI judge into calling it novel? | No — 6/6, caught instantly. Structural, not fixable by better disguise. |
+| [2. Second attempt](02-second-attempt/) | Does generation outperform verification on a different kind of riddle? | Inconclusive — never found an item difficulty where the test had room to run. |
+| [3. Competence check](03-competence-check/) | Can I replicate a real published result correctly, end to end? | Yes — 5/5 seeds, clean, honestly compared against the source paper. |
+| [4. Can the judges be gamed?](04-can-the-judges-be-gamed/) | Can a panel of judges be fooled by shared blind spots or framing? | Mixed — independence fixes independent errors, not shared ones; framing softens confidence but never flips a verdict. |
+| [5. Why this is hard](05-why-this-is-hard/) | Has *anyone*, in any field, solved this? | No — 13 independent fields, same wall, traced to a 50-year-old open problem in philosophy of mind. |
+| [6. Building Apex](06-building-apex/) | Can I break my own conclusion with the most adversarial test I can build? | No — 10/10 matched, 0 stumped, across 7 fields. The conclusion held up harder than when I started. |
+| [7. Follow-up, months later](07-followup-test-2026/) | Does a panel find the *real reason* a claim is false more often than one judge? | No — but for a specific, interesting reason, plus a validated control I'd never run. |
+
 ## What I actually tried, in order
 
 **1. [First attempt](01-first-attempt/) — a synthetic puzzle in made-up vocabulary.**
