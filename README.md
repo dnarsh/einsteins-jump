@@ -1,5 +1,9 @@
 # Einstein's Jump
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![Phases](https://img.shields.io/badge/phases-7-informational)
+![Status](https://img.shields.io/badge/status-closed%2C%20honest%20negative%20result-lightgrey)
+
 **Can you build a test that tells you whether an AI actually invented something new — as opposed to cleverly recombining something it already knew?**
 
 I spent about a month on this as a side project. Short answer: no, not cheaply, not with anything I could build solo — and the reason why turns out to be a genuinely interesting, 50-year-old open problem in philosophy of mind, not just an engineering gap. This repo is the honest record of that attempt: what I tried, what broke, what I learned, and why I eventually closed it rather than kept pushing.
